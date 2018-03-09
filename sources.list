@@ -9,4 +9,5 @@ deb http://httpredir.debian.org/debian jessie-updates main
 deb-src http://httpredir.debian.org/debian jessie-updates main
 
 # frib controls
-#deb http://ci.frib.msu.edu/debian/ jessie unstable
+deb http://ci.frib.msu.edu/debian/ jessie unstable
+#deb http://127.0.0.1:10345/debian/ jessie unstable
